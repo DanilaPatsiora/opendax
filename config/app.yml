@@ -1,13 +1,13 @@
 app:
   name: "OpenDAX"
   domain: "app.local"
-  subdomain: "www"
+  subdomain: "parity"
 ssl:
   enabled: false    # Make sure to enable during deployment
   email: "support@example.com"
 license:
   url: "https://www.openware.com/api/v2/tenko"
-  key: "PASTE-KEY-HERE"
+  key: "YT10T-QV886-XPS3P-AK7ZN-OSD6F"
 images:
   peatio: rubykube/peatio:2.3.31
   barong: rubykube/barong:2.3.24
